@@ -16,14 +16,14 @@
     "link": "v2rayng://install-config?url={url}",
     "os": ["Android"],
     "downloadLinks": {
-      "Android": https://github.com/2dust/v2rayNG/releases/tag/1.9.22"
+      "Android": "https://github.com/2dust/v2rayNG/releases/tag/1.9.22"
     },
     "ShowInMenu": true
   },
   
   {
     "name": "hiddify",
-    "urlScheme": https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
+    "urlScheme": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
     "os": ["Windows"],
     "downloadLinks": {
       "Windows": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe"
