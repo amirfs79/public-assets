@@ -10,7 +10,7 @@
           "price": "0",
           "logo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-          "faDescription": "هیدیفای یک برنامه ضد فیلتر و هوشمند است استفاده بسیار آسان با رابط کاربری ساده",
+          "faDescription": "هیدیفای یک برنامه ضد فیلتر و هوشمند است استفاده بسیار آسان با رابط کاربری ساده برای ios هست",
           "configLink": "hiddify://import/{url}",
           "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
           "videoLink": "https://example.com/streisand-video"
@@ -28,7 +28,7 @@
           "price": "0",
           "logo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
           "description": "A V2Ray client for Android devices.",
-          "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
+          "faDescription": "هیدیفای یک برنامه ضد فیلتر و هوشمند است استفاده بسیار آسان با رابط کاربری ساده برای اندروید هست",
           "configLink": "v2rayng://install-config?url={url}",
           "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com",
           "videoLink": "https://example.com/v2rayng-video"
@@ -46,7 +46,7 @@
           "price": "0",
           "logo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
           "description": "A Windows V2Ray client with GUI support.",
-          "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
+          "faDescription": "هیدیفای یک برنامه ضد فیلتر و هوشمند است استفاده بسیار آسان با رابط کاربری ساده برای ویندوز هست",
           "configLink": "v2rayng://install-config",
           "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Windows-Setup-x64.exe",
           "videoLink": "https://example.com/v2rayn-video"
