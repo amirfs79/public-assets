@@ -8,7 +8,7 @@
         {
           "name": "hiddify",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/streisand.jpg",
+          "logo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
           "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
           "configLink": "streisand://import/{url}",
@@ -26,7 +26,7 @@
         {
           "name": "V2rayNG",
           "price": "0",
-          "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayNG.png",
+          "logo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
           "description": "A V2Ray client for Android devices.",
           "faDescription": "V2rayNG یک کلاینت V2Ray برای دستگاه‌های اندرویدی است.",
           "configLink": "v2rayng://install-config?url={url}",
@@ -39,7 +39,7 @@
     {
       "name": "ویندوز",
       "engName": "Windows",
-      "osLogo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/Windows_logo_2021.svg.png",
+      "osLogo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
       "apps": [
         {
           "name": "V2rayN",
