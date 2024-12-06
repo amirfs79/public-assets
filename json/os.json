@@ -10,7 +10,7 @@
           "price": "0",
           "logo": "https://avatars.githubusercontent.com/u/126981719?s=280&v=4",
           "description": "Streisand sets up a new server running a wide variety of anti-censorship software.",
-          "faDescription": "استرایزند یک سرور جدید با نرم‌افزارهای متنوع ضد سانسور راه‌اندازی می‌کند.",
+          "faDescription": "هیدیفای یک برنامه ضد فیلتر و هوشمند است استفاده بسیار آسان با رابط کاربری ساده",
           "configLink": "streisand://import/{url}",
           "downloadLink": "https://apps.apple.com/us/app/streisand/id6450534064",
           "videoLink": "https://example.com/streisand-video"
