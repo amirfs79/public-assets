@@ -30,7 +30,7 @@
           "description": "A V2Ray client for Android devices.",
           "faDescription": "هیدیفای یک برنامه ضد فیلتر و هوشمند است استفاده بسیار آسان با رابط کاربری ساده برای اندروید هست",
           "configLink": "hiddify://import/{url}",
-          "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com",
+          "downloadLink": "https://github.com/hiddify/hiddify-next/releases/latest/download/Hiddify-Android-universal.apk",
           "videoLink": "https://example.com/v2rayn-video"
         }
         
